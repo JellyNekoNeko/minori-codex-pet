@@ -1,0 +1,14 @@
+Minori Codex Pet installation
+
+1. Quit Codex or keep it open.
+2. Copy the entire "minori" folder into:
+   ~/.codex/pets/
+3. In Codex, open Settings > Pets.
+4. Click Refresh, choose Minori, then click Select.
+5. Click Wake Pet if the floating pet is hidden.
+
+The final files should be:
+~/.codex/pets/minori/pet.json
+~/.codex/pets/minori/spritesheet.webp
+
+If Minori does not appear after Refresh, restart Codex once.
